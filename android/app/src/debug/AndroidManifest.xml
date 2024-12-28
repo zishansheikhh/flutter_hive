@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- INTERNET permission for development -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Permissions for accessing storage -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <!-- Permissions for camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+</manifest>
